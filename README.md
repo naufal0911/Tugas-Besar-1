@@ -1,6 +1,6 @@
 # Sistem Manajemen Inventaris Barang (SIMBAR)
 
-![Home!](/readme/Home.png)
+<img src="/readme/Home.png" width="300" height="300">
 
 Sistem Manajamen Inventaris Barang yang bisa disingkat dengan SIMBAR adalah sebuah aplikasi berbasis webstie yang akan membantu pengguna untuk mengelola inventaris barang sesuai dengan kebutuhannya masing - masing. 
 
@@ -36,3 +36,18 @@ Role user toko disini memiliki beberapa hak akses seperti :
     - Melihat Stok Gudang
     - Melihat Stok Toko
     - Melihatan Riwayat Penjualan Barang ke Penjual
+
+## Alur Kerja Aplikasi
+
+Aplikasi SIMBAR memiliki alur kerja yang dimana seperti perusahaan ingin memanajemen barang semestinya, untuk aplikasi ini akan saya jelaskan alur kerja dari awal sampai akhir aplikasi SIMBAR berjalan.
+
+1. Pendaftaran Produk
+
+Pendaftaran Produk merupakan alur dimana admin dari aplikasi SIMBAR akan memasukan daftar produk apa saja yang ada di perusahaan mereka, pada aplikasi SIMBAR sendiri untuk admin sudah bisa memanajemen master data produknya.
+<img src="/readme/PendaftaranProduk/1.png" width="300" height="300">
+Apabila ingin menambahkan tinggal di klik "Tambah Produk", lalu tambahkan produk sesuai keinginan seperti dibawah ini.
+<img src="/readme/PendaftaranProduk/2.png" width="300" height="300">
+Aplikasi Simbar pun akan mengirim email kepada admin yang mendaftarkan produk tersebut.
+<img src="/readme/PendaftaranProduk/3.png" width="300" height="300">
+
+2. 
