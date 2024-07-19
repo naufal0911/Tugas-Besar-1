@@ -68,13 +68,13 @@ Apabila sudah maka Stok di Gudang akan bertambah seperti berikut
 Pemesanan stok barang ke Toko ini bisa dilakukan oleh Admin ataupun User Gudang. 
 
 Sekarang saya coba untuk simulasikan melalui User Gudang apabila ada pemesanan stok barang ke toko.
-<img src="/readme/emesanan Stok Barang ke Toko/1.png" width="600" height="300">
+<img src="/readme/Pemesanan Stok Barang ke Toko/1.png" width="600" height="300">
 
 Apabila sudah kita bisa cek stok toko nya akan bertambah.
-<img src="/readme/emesanan Stok Barang ke Toko/2.png" width="600" height="300">
-<img src="/readme/emesanan Stok Barang ke Toko/3.png" width="300" height="300">
+<img src="/readme/Pemesanan Stok Barang ke Toko/2.png" width="600" height="300">
+<img src="/readme/Pemesanan Stok Barang ke Toko/3.png" width="300" height="300">
 
 dan untuk stok gudang pun akan berkurang karena sudah diberikan ke toko.
-<img src="/readme/emesanan Stok Barang ke Toko/4.png" width="600" height="300">
-<img src="/readme/emesanan Stok Barang ke Toko/5.png" width="300" height="300">
+<img src="/readme/Pemesanan Stok Barang ke Toko/4.png" width="600" height="300">
+<img src="/readme/Pemesanan Stok Barang ke Toko/5.png" width="300" height="300">
 
