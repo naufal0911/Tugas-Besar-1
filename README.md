@@ -1,6 +1,6 @@
 # Sistem Manajemen Inventaris Barang (SIMBAR)
 
-![The San Juan Mountains are beautiful!](/readme/Home.png)
+(/readme/Home.png)
 
 Sistem Manajamen Inventaris Barang yang bisa disingkat dengan SIMBAR adalah sebuah aplikasi berbasis webstie yang akan membantu pengguna untuk mengelola inventaris barang sesuai dengan kebutuhannya masing - masing. 
 
