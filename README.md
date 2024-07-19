@@ -44,10 +44,37 @@ Aplikasi SIMBAR memiliki alur kerja yang dimana seperti perusahaan ingin memanaj
 1. Pendaftaran Produk
 
 Pendaftaran Produk merupakan alur dimana admin dari aplikasi SIMBAR akan memasukan daftar produk apa saja yang ada di perusahaan mereka, pada aplikasi SIMBAR sendiri untuk admin sudah bisa memanajemen master data produknya.
-<img src="/readme/PendaftaranProduk/1.png" width="300" height="300">
-Apabila ingin menambahkan tinggal di klik "Tambah Produk", lalu tambahkan produk sesuai keinginan seperti dibawah ini.
-<img src="/readme/PendaftaranProduk/2.png" width="300" height="300">
-Aplikasi Simbar pun akan mengirim email kepada admin yang mendaftarkan produk tersebut.
-<img src="/readme/PendaftaranProduk/3.png" width="300" height="300">
+<img src="/readme/PendaftaranProduk/1.png" width="600" height="300">
 
-2. 
+Apabila ingin menambahkan tinggal di klik "Tambah Produk", lalu tambahkan produk sesuai keinginan seperti dibawah ini.
+<img src="/readme/PendaftaranProduk/2.png" width="600" height="300">
+
+Aplikasi Simbar pun akan mengirim email kepada admin yang mendaftarkan produk tersebut.
+<img src="/readme/PendaftaranProduk/3.png" width="600" height="300">
+
+2. Pembelian Stok Barang di Gudang Melalui Supplier
+
+Pertama untuk pembelian stok barang di gudang ini bisa dilakukan oleh Admin ataupun User Gudang. 
+
+Sekarang saya coba untuk simulasikan melalui User Gudang apabila ada pembelian melalui supplier.
+<img src="/readme/Pembelian Stok Barang di Gudang Melalui Supplier/1.png" width="600" height="300">
+
+Apabila sudah maka Stok di Gudang akan bertambah seperti berikut
+<img src="/readme/Pembelian Stok Barang di Gudang Melalui Supplier/2.png" width="600" height="300">
+<img src="/readme/Pembelian Stok Barang di Gudang Melalui Supplier/3.png" width="300" height="300">
+
+3. Pemesanan Stok Barang ke Toko
+
+Pemesanan stok barang ke Toko ini bisa dilakukan oleh Admin ataupun User Gudang. 
+
+Sekarang saya coba untuk simulasikan melalui User Gudang apabila ada pemesanan stok barang ke toko.
+<img src="/readme/emesanan Stok Barang ke Toko/1.png" width="600" height="300">
+
+Apabila sudah kita bisa cek stok toko nya akan bertambah.
+<img src="/readme/emesanan Stok Barang ke Toko/2.png" width="600" height="300">
+<img src="/readme/emesanan Stok Barang ke Toko/3.png" width="300" height="300">
+
+dan untuk stok gudang pun akan berkurang karena sudah diberikan ke toko.
+<img src="/readme/emesanan Stok Barang ke Toko/4.png" width="600" height="300">
+<img src="/readme/emesanan Stok Barang ke Toko/5.png" width="300" height="300">
+
