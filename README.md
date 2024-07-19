@@ -78,3 +78,20 @@ dan untuk stok gudang pun akan berkurang karena sudah diberikan ke toko.
 <img src="/readme/Pemesanan Stok Barang ke Toko/4.png" width="600" height="300">
 <img src="/readme/Pemesanan Stok Barang ke Toko/5.png" width="300" height="300">
 
+4. Penjualan dari Toko ke Penjual
+
+Penjualan ini bisa dilakukan oleh Admin ataupun User Toko. 
+
+Sekarang saya akan coba untuk simulasikan melalui User Toko apabila ada penjual yang ingin membeli barang.
+<img src="/readme/Penjualan dari Toko ke Penjual/1.png" width="600" height="300">
+
+Apabila sudah kita bisa riwayat penjualan produk dan detailnya.
+<img src="/readme/Penjualan dari Toko ke Penjual/2.png" width="600" height="300">
+<img src="/readme/Penjualan dari Toko ke Penjual/3.png" width="600" height="300">
+
+Untuk detail penjualan produknya bisa di print dan di share juga.
+<img src="/readme/Penjualan dari Toko ke Penjual/4.png" width="600" height="300">
+<img src="/readme/Penjualan dari Toko ke Penjual/5.png" width="600" height="300">
+<img src="/readme/Penjualan dari Toko ke Penjual/6.png" width="600" height="300">
+
+
