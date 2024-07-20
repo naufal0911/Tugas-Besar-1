@@ -94,4 +94,15 @@ Untuk detail penjualan produknya bisa di print dan di share juga.
 <img src="/readme/Penjualan dari Toko ke Penjual/5.png" width="600" height="300">
 <img src="/readme/Penjualan dari Toko ke Penjual/6.png" width="600" height="300">
 
+## Fitur Tambahan
 
+Pada aplikasi SIMBAR terdapat beberapa fitur tambahan seperti : 
+
+1. Login with Google
+
+Pada aplikasi SIMBAR pengguna sudah bisa login melalui akun Google mereka sendiri. Namun apabila pengguna belum memiliki akun di dalam aplikasi tersebut, maka pengguna akan otomatis menggunakan role user toko.
+
+2. API Swagger
+
+Aplikasi SIMBAR mempunyai dokumentasi API untuk mempermudah para developer apabila ingin menguji aplikasi SIMBAR ini.
+<img src="/readme/Fitur Tambahan/1.png" width="600" height="300">
