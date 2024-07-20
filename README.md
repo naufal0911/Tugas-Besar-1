@@ -105,4 +105,5 @@ Pada aplikasi SIMBAR pengguna sudah bisa login melalui akun Google mereka sendir
 2. API Swagger
 
 Aplikasi SIMBAR mempunyai dokumentasi API untuk mempermudah para developer apabila ingin menguji aplikasi SIMBAR ini.
+
 <img src="/readme/Fitur Tambahan/1.png" width="600" height="300">
