@@ -49,6 +49,7 @@ Pada aplikasi SIMBAR sendiri untuk admin sudah bisa memanajemen master data prod
 <img src="/readme/PendaftaranProduk/1.png" width="600" height="300">
 
 Apabila ingin menambahkan tinggal di klik "Tambah Produk", lalu tambahkan produk sesuai keinginan seperti dibawah ini.
+
 <img src="/readme/PendaftaranProduk/2.png" width="600" height="300">
 
 Aplikasi Simbar pun akan mengirim email kepada admin yang mendaftarkan produk tersebut.
