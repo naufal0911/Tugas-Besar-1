@@ -43,7 +43,9 @@ Aplikasi SIMBAR memiliki alur kerja yang dimana seperti perusahaan ingin memanaj
 
 1. Pendaftaran Produk
 
-Pendaftaran Produk merupakan alur dimana admin dari aplikasi SIMBAR akan memasukan daftar produk apa saja yang ada di perusahaan mereka, pada aplikasi SIMBAR sendiri untuk admin sudah bisa memanajemen master data produknya.
+Pendaftaran Produk merupakan alur dimana admin dari aplikasi SIMBAR akan memasukan daftar produk apa saja yang ada di perusahaan mereka.
+
+Pada aplikasi SIMBAR sendiri untuk admin sudah bisa memanajemen master data produknya.
 <img src="/readme/PendaftaranProduk/1.png" width="600" height="300">
 
 Apabila ingin menambahkan tinggal di klik "Tambah Produk", lalu tambahkan produk sesuai keinginan seperti dibawah ini.
